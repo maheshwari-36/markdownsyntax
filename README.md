@@ -21,11 +21,11 @@ __*ece*__
 #### ordered list
 1. ece
 2. eee
- 1. eeea
-  2. eeeb
+    1. eeea
+    2. eeeb
 3. cse
- 4. csea
-  5. cseb
-  6.civil
+    4. csea
+    5. cseb
+6.civil
 
 
