@@ -24,8 +24,8 @@ __*ece*__
     1. eeea
     2. eeeb
 3. cse
-    4. csea
-    5. cseb
-6.civil
+    1. csea
+    2. cseb
+4. civil
 
 
