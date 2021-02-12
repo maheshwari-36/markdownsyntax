@@ -1,2 +1,5 @@
 # markdownsyntax
-day2 markdown syntax for ece a
+## heading2
+### heading 3
+###### heading 6
+
