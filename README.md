@@ -40,6 +40,9 @@ print("hello")
 ```
 ### task insert a code of hello in c
 ```
+int()
+{
 printf("hello world");
+}
 ```
 
