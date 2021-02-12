@@ -56,4 +56,6 @@ printf("hello world");
 ## inserting images
 ![tree](https://github.com/maheshwari-36/markdownsyntax/blob/master/img1.jpg)
 ## inserting videos
-[![video](https://img.youtube.com/vi/7s7xiWvLDUA/0.jpj)](https://www.youtube.com/watch?v=7s7xiWvLDUA)
+[![video](https://img.youtube.com/vi/7s7xiWvLDUA/0.jpg)](https://www.youtube.com/watch?v=7s7xiWvLDUA)
+## insert video
+[![video](https://img.youtube.com/vi/xEwg-8XNIJw/0.jpg)](https://www.youtube.com/watch?v=xEwg-8XNIJw)
