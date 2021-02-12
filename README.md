@@ -26,5 +26,6 @@ __*ece*__
 3. cse
  4. csea
   5. cseb
+  6.civil
 
 
