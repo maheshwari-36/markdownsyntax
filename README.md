@@ -38,4 +38,8 @@ __*ece*__
 ```python
 print("hello")
 ```
+### task insert a code of hello in c
+```
+printf("hello world");
+```
 
