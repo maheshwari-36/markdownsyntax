@@ -55,4 +55,5 @@ printf("hello world");
 [git](https://github.com/maheshwari-36/markdownsyntax/edit/main/README.md)
 ## inserting images
 ![tree](https://github.com/maheshwari-36/markdownsyntax/blob/master/img1.jpg)
-
+## inserting videos
+[![video](https://img.youtube.com/vi/7s7xiWvLDUA/0.jpj)](https://www.youtube.com/watch?v=7s7xiWvLDUA)
