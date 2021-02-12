@@ -53,4 +53,6 @@ printf("hello world");
 [gmail](https://www.google.com/search?q=gmail+login&rlz=1C1CHBF_enIN871IN872&oq=gmail&aqs=chrome.2.69i59l2j0i271j69i61l2j69i60.5371j0j15&sourceid=chrome&ie=UTF-8)
 ### git official site
 [git](https://github.com/maheshwari-36/markdownsyntax/edit/main/README.md)
+## inserting images
+![tree](https://github.com/maheshwari-36/markdownsyntax/blob/master/img1.jpg)
 
