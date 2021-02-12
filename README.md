@@ -47,4 +47,10 @@ printf("hello world");
 ```
 ### inserting urls
 [markdown sheet](https://www.markdownguide.org/cheat-sheet/)
+### college website link
+[college link](https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TDYoKirJNkw3YLRSNagwTkoyNTY0NkxMNDZMtTAytzKosDQzTrRMsUw0MbBISrZMNvbizc4sKVbITSzKTiwoLQIAoj0UZg&q=kits+markapur&rlz=1C1CHBF_enIN871IN872&oq=kits+markapur&aqs=chrome.1.69i57j46i175i199j0l3j0i22i30l3.21974j0j7&sourceid=chrome&ie=UTF-8)
+### gmail link
+[gmail](https://www.google.com/search?q=gmail+login&rlz=1C1CHBF_enIN871IN872&oq=gmail&aqs=chrome.2.69i59l2j0i271j69i61l2j69i60.5371j0j15&sourceid=chrome&ie=UTF-8)
+### git official site
+[git](https://github.com/maheshwari-36/markdownsyntax/edit/main/README.md)
 
